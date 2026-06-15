@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "build": "echo \"Intentional screenshot build error\" && exit 1"
+  }
+}
